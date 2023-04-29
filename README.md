@@ -20,6 +20,4 @@ FinPricing offer forward credit spread curves for various sectors and ratings. T
 
 Reference
 
-https://finpricing.com/lib/EqRangeAccrual.html
-
-https://bitbucket.org/cmrm11/crcreditcurve/downloads/CrCreditSpread-16.pdf
+https://finpricing.com/lib/IrBasisCurve.html
